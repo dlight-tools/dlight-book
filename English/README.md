@@ -1,2 +1,2 @@
 # D::Light
-##  User Manual (E)
+##  User Manual (E).
