@@ -1,2 +1,2 @@
 # dlight-book
-English user's manual
+##  User Manual (E)
