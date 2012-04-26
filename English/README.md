@@ -1,2 +1,2 @@
-# dlight-book
+# D::Light
 ##  User Manual (E)
