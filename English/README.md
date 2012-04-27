@@ -1,3 +1,3 @@
 # D::Light
-##  Lighting Control Software
+##  Cross-Platform Lighting Control Software
 ### User Manual (English)
