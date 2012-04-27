@@ -1,2 +1,3 @@
 # D::Light
-##  User Manual (E).
+##  Lighting Control Software
+### User Manual (English)
